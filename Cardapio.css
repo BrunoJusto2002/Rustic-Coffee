@@ -1,0 +1,63 @@
+/* Dando estilo ao cardapio */
+
+/* Dando estilo ao titulo principal */
+h1{
+    color: rgb(131, 58, 36);
+    text-align: center;
+    font-size: 100px;
+    font-family: "Dancing Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: -2px;
+}
+
+/* Centarlizando o menu de seleção */
+dl{
+    text-align: center;
+}
+
+/* Dando estilo ao menu de seleção*/
+dl > a{
+    color: rgb(73, 51, 51);
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: "Amatic SC", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-decoration: none;
+    display: flex;
+    justify-content:center;
+    margin-bottom: 10px;
+}
+
+/* Estilizando o footer */
+.fixarRodape {
+    bottom: 0;
+    position: static;
+    width: 100%;
+    height: 26.6vh;
+    background-color: chocolate;
+    margin-top: 200px;
+}
+
+/*Dando estilo as informações na contatos:*/
+.titulo{
+    color: rgb(131, 58, 36);
+    font-size: 30px;
+    font-family: "Amatic SC", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    margin-top: -2px;
+    margin-left: -1049px;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    font-family: 'Amatic SC', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 30px;
+    list-style: none;
+}
+
